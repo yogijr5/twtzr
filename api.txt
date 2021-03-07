@@ -1,0 +1,4 @@
+api_key kamu
+api_secret kamu
+access_token kamu
+access_token_secret kamu
